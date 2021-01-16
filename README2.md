@@ -57,5 +57,3 @@ Figure . Multiple Granularity Network architecture.
     adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
-
-# 提交的东西
